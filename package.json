@@ -1,0 +1,14 @@
+{
+  "name": "nodejsapi_template",
+  "version": "1.0.0",
+  "description": "This is a template project for creating any NodeJs RestAPI project with basic inbuilt features like user management, roles, authentication and authorization etc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
